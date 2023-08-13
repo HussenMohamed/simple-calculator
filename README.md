@@ -1,5 +1,8 @@
 # simple-calculator
 
+## Live Demo
+https://hussenmohamed.github.io/simple-calculator/
+
 ## Description
 The "Simple Calculator" Web App is a simple calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations and provides a user-friendly interface for calculations.
 
